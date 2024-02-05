@@ -1,0 +1,119 @@
+ERROR - 2023-08-25 08:36:28 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2023-08-25 08:36:28 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\jalan\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\jalan\system\Database\BaseBuilder.php(1588): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\jalan\app\Models\M_model.php(34): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#3 C:\xampp\htdocs\jalan\app\Controllers\Home.php(45): App\Models\M_model->getWhere2('user', Array)
+#4 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#5 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2023-08-25 08:50:28 --> Table 'dbjalan.log' doesn't exist
+ERROR - 2023-08-25 09:22:25 --> Unknown column 'nama.id_penguna' in 'on clause'
+CRITICAL - 2023-08-25 09:22:25 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(287): App\Models\M_model->join2('perjalanan', 'penguna', 'perjalanan.nama...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-08-25 09:26:08 --> Unknown column 'nama.id_penguna' in 'on clause'
+CRITICAL - 2023-08-25 09:26:08 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(292): App\Models\M_model->join2('perjalanan', 'penguna', 'perjalanan.nama...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-08-25 09:26:10 --> Unknown column 'nama.id_penguna' in 'on clause'
+CRITICAL - 2023-08-25 09:26:10 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(292): App\Models\M_model->join2('perjalanan', 'penguna', 'perjalanan.nama...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-08-25 09:26:59 --> Unknown column 'nama.id_penguna' in 'on clause'
+CRITICAL - 2023-08-25 09:26:59 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(292): App\Models\M_model->join2('perjalanan', 'penguna', 'perjalanan.nama...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-08-25 09:27:00 --> Unknown column 'nama.id_penguna' in 'on clause'
+CRITICAL - 2023-08-25 09:27:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(292): App\Models\M_model->join2('perjalanan', 'penguna', 'perjalanan.nama...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-08-25 09:27:00 --> Unknown column 'nama.id_penguna' in 'on clause'
+CRITICAL - 2023-08-25 09:27:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(292): App\Models\M_model->join2('perjalanan', 'penguna', 'perjalanan.nama...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-25 09:34:25 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\jalan\app\Controllers\Home.php on line 291
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(291): view('perjalanan', NULL)
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-25 09:34:43 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\jalan\app\Controllers\Home.php on line 291
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(291): view('perjalanan', NULL)
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-25 09:34:47 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\jalan\app\Controllers\Home.php on line 291
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(291): view('perjalanan', NULL)
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-25 09:36:10 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\jalan\app\Controllers\Home.php on line 291
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(291): view('perjalanan', NULL)
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-25 09:36:12 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\jalan\app\Controllers\Home.php on line 291
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(291): view('perjalanan', NULL)
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-08-25 09:46:27 --> Unknown column 'perjalanan.user' in 'on clause'
+CRITICAL - 2023-08-25 09:46:27 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\jalan\app\Controllers\Home.php(287): App\Models\M_model->join2('perjalanan', 'penguna', 'perjalanan.user...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->perjalanan()
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

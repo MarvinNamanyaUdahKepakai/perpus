@@ -1,0 +1,85 @@
+ERROR - 2023-10-10 20:28:18 --> Unknown column 'nama_petugas' in 'field list'
+CRITICAL - 2023-10-10 21:16:59 --> Cannot redeclare App\Controllers\Home::hapus_ketua()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-10-10 21:17:55 --> Column 'nama_ketua' cannot be null
+ERROR - 2023-10-10 21:34:10 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-10 21:34:10 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\app\Controllers\Home.php(163): App\Models\M_model->tampil('level')
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->tambah_petugas()
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-10 21:34:48 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-10 21:34:48 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\app\Controllers\Home.php(455): App\Models\M_model->tampil('level')
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->tambah_penduduk()
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-10 21:36:44 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-10 21:36:44 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\app\Controllers\Home.php(455): App\Models\M_model->tampil('level')
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->tambah_penduduk()
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-10 21:37:38 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-10 21:37:38 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\app\Controllers\Home.php(163): App\Models\M_model->tampil('level')
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->tambah_petugas()
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-10-10 21:40:53 --> syntax error, unexpected ''user'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 C:\xampp\htdocs\sampah\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/petugas')
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/petugas')
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-10 21:41:02 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-10 21:41:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\app\Controllers\Home.php(163): App\Models\M_model->tampil('level')
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->tambah_petugas()
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-10 21:47:43 --> Column 'created_at' in order clause is ambiguous
+CRITICAL - 2023-10-10 21:47:43 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\app\Controllers\Home.php(125): App\Models\M_model->join2('petugas', 'user', 'petugas.user=us...')
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->petugas()
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-10 21:50:24 --> Unknown column 'ketua.created_at' in 'order clause'
+CRITICAL - 2023-10-10 21:50:24 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\app\Controllers\Home.php(289): App\Models\M_model->join3('ketua', 'user', 'rw', 'ketua.user = us...', 'ketua.rw = rw.i...')
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->ketua()
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-10 21:54:35 --> Unknown column 'penduduk.created_at' in 'order clause'
+CRITICAL - 2023-10-10 21:54:35 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\app\Controllers\Home.php(444): App\Models\M_model->join3('penduduk', 'user', 'rw', 'penduduk.user =...', 'penduduk.rw = r...')
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->penduduk()
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

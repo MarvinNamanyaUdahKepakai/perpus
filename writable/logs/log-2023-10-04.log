@@ -1,0 +1,144 @@
+ERROR - 2023-10-04 00:54:38 --> Column 'id_user' cannot be null
+CRITICAL - 2023-10-04 21:28:37 --> Invalid file: petugas.php
+#0 C:\xampp\htdocs\sampah\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('petugas.php')
+#1 C:\xampp\htdocs\sampah\system\Common.php(1089): CodeIgniter\View\View->render('petugas', Array, true)
+#2 C:\xampp\htdocs\sampah\app\Controllers\Home.php(133): view('petugas', Array)
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->petugas()
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-10-04 21:30:34 --> Unknown column 'tgl' in 'field list'
+ERROR - 2023-10-04 21:37:36 --> Table 'dbsampah.masyarakat' doesn't exist
+CRITICAL - 2023-10-04 21:37:36 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\system\Model.php(728): CodeIgniter\Database\BaseBuilder->countAll()
+#1 C:\xampp\htdocs\sampah\app\Models\Teacher_model.php(14): CodeIgniter\Model->__call('countAll', Array)
+#2 C:\xampp\htdocs\sampah\app\Controllers\Home.php(96): App\Models\Teacher_model->getTeacherCount()
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-10-04 21:38:25 --> Table 'dbsampah.masyarakat' doesn't exist
+CRITICAL - 2023-10-04 21:38:25 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\system\Model.php(728): CodeIgniter\Database\BaseBuilder->countAll()
+#1 C:\xampp\htdocs\sampah\app\Models\Teacher_model.php(14): CodeIgniter\Model->__call('countAll', Array)
+#2 C:\xampp\htdocs\sampah\app\Controllers\Home.php(96): App\Models\Teacher_model->getTeacherCount()
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-10-04 21:39:01 --> Table 'dbsampah.masyarakat' doesn't exist
+CRITICAL - 2023-10-04 21:39:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\system\Model.php(728): CodeIgniter\Database\BaseBuilder->countAll()
+#1 C:\xampp\htdocs\sampah\app\Models\Teacher_model.php(14): CodeIgniter\Model->__call('countAll', Array)
+#2 C:\xampp\htdocs\sampah\app\Controllers\Home.php(96): App\Models\Teacher_model->getTeacherCount()
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-10-04 21:40:10 --> Table 'dbsampah.masyarakat' doesn't exist
+CRITICAL - 2023-10-04 21:40:10 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\system\Model.php(728): CodeIgniter\Database\BaseBuilder->countAll()
+#1 C:\xampp\htdocs\sampah\app\Models\Teacher_model.php(14): CodeIgniter\Model->__call('countAll', Array)
+#2 C:\xampp\htdocs\sampah\app\Controllers\Home.php(96): App\Models\Teacher_model->getTeacherCount()
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-10-04 21:40:23 --> Table 'dbsampah.masyarakat' doesn't exist
+CRITICAL - 2023-10-04 21:40:23 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\system\Model.php(728): CodeIgniter\Database\BaseBuilder->countAll()
+#1 C:\xampp\htdocs\sampah\app\Models\Teacher_model.php(14): CodeIgniter\Model->__call('countAll', Array)
+#2 C:\xampp\htdocs\sampah\app\Controllers\Home.php(96): App\Models\Teacher_model->getTeacherCount()
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-10-04 21:40:23 --> Table 'dbsampah.masyarakat' doesn't exist
+CRITICAL - 2023-10-04 21:40:23 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\system\Model.php(728): CodeIgniter\Database\BaseBuilder->countAll()
+#1 C:\xampp\htdocs\sampah\app\Models\Teacher_model.php(14): CodeIgniter\Model->__call('countAll', Array)
+#2 C:\xampp\htdocs\sampah\app\Controllers\Home.php(96): App\Models\Teacher_model->getTeacherCount()
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-10-04 21:40:25 --> Table 'dbsampah.masyarakat' doesn't exist
+CRITICAL - 2023-10-04 21:40:25 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\system\Model.php(728): CodeIgniter\Database\BaseBuilder->countAll()
+#1 C:\xampp\htdocs\sampah\app\Models\Teacher_model.php(14): CodeIgniter\Model->__call('countAll', Array)
+#2 C:\xampp\htdocs\sampah\app\Controllers\Home.php(96): App\Models\Teacher_model->getTeacherCount()
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-10-04 21:40:54 --> Table 'dbsampah.masyarakat' doesn't exist
+CRITICAL - 2023-10-04 21:40:54 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\sampah\system\Model.php(728): CodeIgniter\Database\BaseBuilder->countAll()
+#1 C:\xampp\htdocs\sampah\app\Models\Teacher_model.php(14): CodeIgniter\Model->__call('countAll', Array)
+#2 C:\xampp\htdocs\sampah\app\Controllers\Home.php(96): App\Models\Teacher_model->getTeacherCount()
+#3 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-10-04 21:43:42 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\sampah\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\sampah\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Teac...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Teac...')
+#3 C:\xampp\htdocs\sampah\app\Controllers\Home.php(95): spl_autoload_call('App\\Models\\Teac...')
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-10-04 21:43:55 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\sampah\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\sampah\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Teac...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Teac...')
+#3 C:\xampp\htdocs\sampah\app\Controllers\Home.php(95): spl_autoload_call('App\\Models\\Teac...')
+#4 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-10-04 21:46:47 --> Class 'App\Models\Teacher_model' not found
+#0 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-10-04 21:58:33 --> Call to a member function isValid() on null
+#0 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->aksi_edit_petugas()
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-10-04 21:59:26 --> Call to a member function isValid() on null
+#0 C:\xampp\htdocs\sampah\system\CodeIgniter.php(832): App\Controllers\Home->aksi_edit_petugas()
+#1 C:\xampp\htdocs\sampah\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\sampah\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\sampah\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\sampah\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2023-10-04 22:00:15 --> Unknown column 'tgl' in 'field list'

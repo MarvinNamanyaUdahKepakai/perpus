@@ -1,0 +1,255 @@
+CRITICAL - 2023-08-27 04:10:13 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:10:49 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:12:43 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:13:40 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:13:41 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:14:18 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:14:19 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:14:23 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:14:59 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:15:02 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:15:35 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\jalan\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/hapus_perj...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/hapus_perj...')
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-27 04:15:36 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\jalan\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/hapus_perj...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/hapus_perj...')
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-27 04:16:39 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:16:57 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:17:15 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:17:28 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:17:29 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:17:39 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:17:40 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:17:46 --> syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\jalan\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/hapus_perj...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/hapus_perj...')
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-27 04:19:26 --> syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\jalan\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/hapus_perj...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/hapus_perj...')
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-27 04:19:28 --> syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\jalan\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Home/perjalanan')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Home/perjalanan')
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-27 04:19:29 --> syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\jalan\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/tambah_per...')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/tambah_per...')
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-27 04:19:31 --> syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\jalan\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/perjalanan')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/perjalanan')
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-27 04:19:32 --> syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\jalan\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/penguna')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/penguna')
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-27 04:19:33 --> syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\jalan\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Home/dashboard')
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Home/dashboard')
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-27 04:19:33 --> syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\jalan\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\jalan\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\jalan\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\jalan\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-08-27 04:20:01 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:23:07 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-27 04:23:12 --> Too few arguments to function App\Controllers\Home::hapus_perjalanan(), 0 passed in C:\xampp\htdocs\jalan\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->hapus_perjalanan()
+#1 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2023-08-27 04:33:37 --> Unknown column 'id_blok' in 'where clause'
+ERROR - 2023-08-27 04:33:53 --> Unknown column 'id_blok' in 'where clause'
+ERROR - 2023-08-27 20:07:01 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2023-08-27 20:07:01 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\jalan\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\jalan\system\Database\BaseBuilder.php(1588): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\jalan\app\Models\M_model.php(34): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#3 C:\xampp\htdocs\jalan\app\Controllers\Home.php(45): App\Models\M_model->getWhere2('user', Array)
+#4 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#5 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2023-08-27 20:07:21 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2023-08-27 20:07:21 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\jalan\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\jalan\system\Database\BaseBuilder.php(1588): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\jalan\app\Models\M_model.php(34): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#3 C:\xampp\htdocs\jalan\app\Controllers\Home.php(45): App\Models\M_model->getWhere2('user', Array)
+#4 C:\xampp\htdocs\jalan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#5 C:\xampp\htdocs\jalan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\jalan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\jalan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\jalan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
